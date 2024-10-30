@@ -1,0 +1,38 @@
+#header-inner {
+  margin: 10px auto;
+}
+
+#header-inner h2 {
+  margin: 0 0 0 10px;
+}
+
+.carousel-inner {
+  display: flex;
+  justify-content: center;
+}
+
+.carousel-item img {
+  height: 500px;
+  object-fit: cover;
+  /* width: 0 auto; */
+}
+
+#skill {
+  background-color: #FBFCFF;
+  text-align: center;
+  padding: 80px 80px 80px 80px;
+}
+
+#skill h2 {
+  color: #2B262E;
+}
+
+footer {
+  background-color: #344699;
+  text-align: center;
+  padding: 60px 80px 80px 80px;
+}
+
+footer h2 {
+  color: #FBFCFF;
+}
